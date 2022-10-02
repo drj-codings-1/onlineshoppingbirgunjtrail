@@ -1,0 +1,57 @@
+.four{
+    font-family:"Lucida Console", "Courier New", monospace;
+    font-weight:bold;
+    text-align: right ;
+    color: blue ;
+}
+td{
+    font-weight:bold;
+      text-align: center;
+       font-family: 'Courier New', monospace;
+        }
+.one{
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+            font-size:35px;
+            color : blue ;
+        }
+        .five{
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+            font-size:35px;
+            color : black ;
+        }
+        .two{
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+        color: blue;
+        font-size: 35px;
+       
+        }
+          .three{
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+        color: navy;
+        font-size: 50px;
+        }
+        
+ h1{
+ color: red; 
+   font-family: 'Courier New', monospace;
+ }     
+input{
+font-family: 'Courier New', monospace;
+ width:80%;
+ color: blue;   
+}
+a{
+    color: blue ;
+}
+img{
+width :100%;
+   height:25% ;
+}
+body{
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}
